@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/anjo/Downloads/flareGet/Compressed/jpbc/jars/bcprov-jdk16-1.46.jar"/>
+	<classpathentry kind="lib" path="/home/anjo/Downloads/flareGet/Compressed/jpbc/jars/jna-3.2.5.jar"/>
+	<classpathentry kind="lib" path="/home/anjo/Downloads/flareGet/Compressed/jpbc/jars/jpbc-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/anjo/Downloads/flareGet/Compressed/jpbc/jars/jpbc-benchmark-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/anjo/Downloads/flareGet/Compressed/jpbc/jars/jpbc-crypto-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/anjo/Downloads/flareGet/Compressed/jpbc/jars/jpbc-mm-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/anjo/Downloads/flareGet/Compressed/jpbc/jars/jpbc-pbc-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/anjo/Downloads/flareGet/Compressed/jpbc/jars/jpbc-plaf-2.0.0.jar" sourcepath="/auditing"/>
+	<classpathentry kind="lib" path="/home/anjo/Desktop/auditing5.jar"/>
+	<classpathentry kind="lib" path="/home/anjo/Downloads/flareGet/Compressed/commons-io-2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/anjo/Downloads/flareGet/Compressed/commons-io-2.4/commons-io-2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/anjo/Downloads/flareGet/Compressed/commons-io-2.4/commons-io-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/anjo/Downloads/flareGet/Compressed/commons-io-2.4/commons-io-2.4-tests.jar"/>
+	<classpathentry kind="lib" path="/home/anjo/Downloads/flareGet/Compressed/commons-io-2.4/commons-io-2.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/anjo/Desktop/javamail-1.4.7/mail.jar"/>
+	<classpathentry kind="lib" path="/home/anjo/Desktop/javamail-1.4.7/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="/home/anjo/Desktop/javamail-1.4.7/lib/gimap.jar"/>
+	<classpathentry kind="lib" path="/home/anjo/Desktop/javamail-1.4.7/lib/imap.jar"/>
+	<classpathentry kind="lib" path="/home/anjo/Desktop/javamail-1.4.7/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="/home/anjo/Desktop/javamail-1.4.7/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="/home/anjo/Desktop/javamail-1.4.7/lib/smtp.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
